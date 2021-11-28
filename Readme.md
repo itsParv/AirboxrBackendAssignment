@@ -45,4 +45,18 @@
 
 
 [DB File](https://drive.google.com/file/d/1i5Kkyg3_wA1t-ZJs-gwKdpXH9HzxB-zI/view?usp=sharing)
+
+
 #
+
+# Images for API Performance Ref, before and after indexing:
+
+<img width="993" alt="API#1 -  track by name (Before Index) " src="https://user-images.githubusercontent.com/40753350/143783764-638b4b43-3470-4494-8bd5-623e2c841609.png">
+<img width="993" alt="API#1 -  track by name(After Indexing)" src="https://user-images.githubusercontent.com/40753350/143783769-1fa99c16-0326-42cf-9bf0-1de3df51790a.png">
+<img width="993" alt="API#2 getPlaylistTrackEntity (Befor indexing)" src="https://user-images.githubusercontent.com/40753350/143783771-05c8182e-b374-4294-80d8-aa26f0534a25.png">
+<img width="993" alt="API#3 getCount (After indexing)" src="https://user-images.githubusercontent.com/40753350/143783772-c4bf1c1f-1c98-45fe-bf64-fd59964d7b0e.png">
+<img width="993" alt="API#3 getCount(Before Indexing)" src="https://user-images.githubusercontent.com/40753350/143783773-f354d916-c212-4d92-98ee-0a270a5b8aa1.png">
+<img width="993" alt="API#1(After Indexing)" src="https://user-images.githubusercontent.com/40753350/143783775-31d4750b-9277-4bb7-9a61-e6d01f22cfe6.png">
+
+
+
