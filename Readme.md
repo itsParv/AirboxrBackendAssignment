@@ -13,6 +13,8 @@
 - Database: Postgresql
 - ORM : Hibernate(JPA)
 
+- Please note that once you are done with base setup, you need to change the DB URL in application.properties file according to your system.
+
 # _API Details_
 ##### 1. Get Track entity by name
 
